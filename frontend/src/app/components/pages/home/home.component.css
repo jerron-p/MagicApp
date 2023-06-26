@@ -1,0 +1,11 @@
+.content{
+    margin-top: 0.3rem;
+    padding: 0.5rem 1rem;
+    position: relative;
+    height: 7rem;
+  }
+
+  .container > *{
+    min-width: 25rem;
+    max-width: 40rem;
+}

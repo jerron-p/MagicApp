@@ -1,0 +1,19 @@
+<ul>
+    <li *ngFor="let card of cards">
+        <a routerLink="/card/{{card.cardName}}">
+            <img [src]="card.imageUrl" [alt]="card.cardName"/>
+            <div class="content">
+                <div class="cardName">
+                    {{card.cardName}}
+                </div>
+                <div class="card-item-footer">
+                    <div class="purpose">
+                        <span *ngFor="let purpose of card.purpose">
+                            {{purpose}}
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </li>
+</ul>
