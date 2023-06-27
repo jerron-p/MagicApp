@@ -926,4 +926,21 @@ export const sample_cards: any[] = [
         purpose:['Metalcraft']
     },
     
+];
+
+export const sample_users: any[] = [
+    {
+        firstName:"John",
+        lastName:"Doe",
+        email:"john@gmail.com",
+        password:"12345",
+        isAdmin: true
+    },
+    {
+        firstName:"Jane",
+        lastName:"Doe",
+        email:"jane@gmail.com",
+        password:"12345",
+        isAdmin: false
+    }
 ]

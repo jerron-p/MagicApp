@@ -6,14 +6,14 @@
                 <li>
                     <a routerLink="/cardDatabase">Card Database</a>
                 </li>
-                <li>
+                <li *ngIf="!isAuthenticated">
                     <a routerLink="/login">Login</a>
                 </li>
-                <li class="menu-container">
-                    <a routerLink="/dashboard">James</a>
+                <li *ngIf="isAuthenticated" class="menu-container">
+                    <a routerLink="/dashboard">{{user.firstName}}</a>
                     <div class="menu">
                         <a routerLink="/profile">Profile</a>
-                        <a>Logout</a>
+                        <a (click)="logout()">Logout</a>
                     </div>
                 </li>
             </ul>

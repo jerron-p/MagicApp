@@ -29,7 +29,7 @@ a.logo{
 ul{
     display: flex;
     list-style-type: none;
-    margin: 0;
+    margin: 0 3rem 0 0;
 }
 
 ul a{
