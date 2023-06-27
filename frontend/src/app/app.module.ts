@@ -11,6 +11,7 @@ import { HomeComponent } from './components/pages/home/home.component';
 import { CardDatabaseComponent } from './components/pages/card-database/card-database.component';
 import { LoginPageComponent } from './components/pages/login-page/login-page.component';
 import { ReactiveFormsModule } from '@angular/forms';
+import { DeckDatabaseComponent } from './components/pages/deck-database/deck-database.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { ReactiveFormsModule } from '@angular/forms';
     HeaderComponent,
     HomeComponent,
     CardDatabaseComponent,
-    LoginPageComponent
+    LoginPageComponent,
+    DeckDatabaseComponent
   ],
   imports: [
     BrowserModule,
