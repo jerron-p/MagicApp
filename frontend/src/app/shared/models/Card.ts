@@ -1,7 +1,6 @@
 export class Card{
     //PK
     cardName!:string;
-    abilityText?:string[];
     power?:number;
     toughness?:number;
     //FK cardName
@@ -18,9 +17,7 @@ export class Card{
     subtype?:string[];
     //CardCost
     cost?:[string, number][];
-    //CardAbility
-    //Trample, haste, flying, etc.
-    ability?:string[];
+    optional?:[string,number][];
     //CardColorIdentity
     color!:string[];
     //CardPurpose

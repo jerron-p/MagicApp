@@ -1,0 +1,78 @@
+﻿Deck,cardName,Power,Toughness,Optional,ImageUrl,Type,Subtype,Blue,Grey,X,Converted,Function,Quantity
+The Artificers,Angel's Feather,,,,,Artifact,,,2,FALSE,2,Life,1
+The Artificers,Animate Artifact,,,,,Enchantment,Aura,1,3,FALSE,4,Offense,1
+The Artificers,Argivian Avenger,5,5,,,"Artifact, Creature",Shapeshifter,,6,FALSE,6,Offense,1
+The Artificers,"Callaphe, Beloved of the Sea",0,3,,,"Legendary, Enchantment, Creature",Demigod,2,1,FALSE,3,Control,1
+The Artificers,Clay Statue,3,1,,,"Artifact, Creature",Golem,,4,FALSE,4,Defense,1
+The Artificers,Clock of Omens,,,,,Artifact,,,4,FALSE,4,Metalcraft,1
+The Artificers,Clockwork Beast,0,4,,,"Artifact, Creature",Beast,,6,FALSE,6,Offense,1
+The Artificers,Copper Myr,1,1,,,"Artifact, Creature",Myr,,2,FALSE,2,Mana,1
+The Artificers,Cradle Clearcutter,3,6,"[""Grey"",2];[""Green"",1]",,"Artifact, Creature",Golem,,6,FALSE,6,Mana,1
+The Artificers,Crystal Rod,,,,,Artifact,,,1,FALSE,1,Life,1
+The Artificers,Demon's Horn,,,,,Artifact,,,2,FALSE,2,Life,1
+The Artificers,"Drafna, Founder of Lat-Nam",2,1,,,"Legendary, Creature","Human, Artificer, Advisor",1,1,FALSE,2,Commander,1
+The Artificers,Dragon's Claw,,,,,Artifact,,,2,FALSE,2,Life,1
+The Artificers,Elixir of Immortality,,,,,Artifact,,,1,FALSE,1,Life,1
+The Artificers,Forging the Anchor,,,,,Sorcery,,1,2,FALSE,3,Tutor,1
+The Artificers,Frogmite,2,2,,,"Artifact, Creature",Frog,,4,FALSE,4,Metalcraft,1
+The Artificers,Geode Golem,5,3,,,"Artifact, Creature",Golem,,5,FALSE,5,Tutor,1
+The Artificers,Gold Myr,1,1,,,"Artifact, Creature",Myr,,2,FALSE,2,Mana,1
+The Artificers,Into Thin Air,,,,,Instant,,1,5,FALSE,6,Metalcraft,1
+The Artificers,Iron Myr,1,1,,,"Artifact, Creature",Myr,,2,FALSE,2,Mana,1
+The Artificers,Iron Star,,,,,Artifact,,,1,FALSE,1,Life,1
+The Artificers,Island,,,,,"Basic, Land",Island,,,FALSE,0,Blue,24
+The Artificers,Ivory Cup,,,,,Artifact,,,1,FALSE,1,Life,1
+The Artificers,Jolt,,,,,Instant,,1,2,FALSE,3,Draw,1
+The Artificers,Key to the City,,,,,Artifact,,,2,FALSE,2,Offense,1
+The Artificers,Kiora's Dambreaker,5,6,,,Creature,Leviathan,1,5,FALSE,6,Proliforate,1
+The Artificers,Krark-Clan Ironworks,,,,,Artifact,,,4,FALSE,4,Mana,1
+The Artificers,Leaden Myr,1,1,,,"Artifact, Creature",Myr,,2,FALSE,2,Mana,1
+The Artificers,Levitation,,,,,Enchantment,,2,2,FALSE,4,Enhance,1
+The Artificers,Liquimetal Coating,,,,,Artifact,,,2,FALSE,2,Metalcraft,1
+The Artificers,Littjara Mirrorlake,,,,,Land,,,,FALSE,0,Blue,1
+The Artificers,Machinate,,,,,Instant,,2,1,FALSE,3,Metalcraft,1
+The Artificers,Magnetic Flux,,,,,Instant,,1,2,FALSE,3,Metalcraft,1
+The Artificers,Master Transmuter,1,2,,,"Artifact, Creature","Human, Artificer",1,3,FALSE,4,Metalcraft,1
+The Artificers,Meteor Golem,3,3,,,"Artifact, Creature",Golem,,7,FALSE,7,Remove,1
+The Artificers,Mirror Shield,,,,,Artifact,Equipment,,2,FALSE,2,Enhance,1
+The Artificers,Ornithopter,0,2,,,"Artifact, Creature",Thopter,,0,FALSE,0,Defense,1
+The Artificers,Power Sink,,,,,Instant,,1,,TRUE,1,Counter,1
+The Artificers,Prototype Portal,,,,,Artifact,,,4,FALSE,4,Token,1
+The Artificers,Quicksilver Behemoth,4,5,,,Creature,Beast,1,6,FALSE,7,Metalcraft,1
+The Artificers,Raiders' Karve,4,4,,,Artifact,Vehicle,,3,FALSE,3,Metalcraft,1
+The Artificers,"Ramos, Dragon Engine",4,4,,,"Legendary, Artifact, Creature",Dragon,,6,FALSE,6,Offense,1
+The Artificers,Razorfield Rhino,4,4,,,"Artifact, Creature",Rhino,,6,FALSE,6,Metalcraft,1
+The Artificers,Reconstruction,,,,,Instant,,1,,FALSE,1,Tutor,1
+The Artificers,Rootwater Diver,1,1,,,Creature,Merfolk,1,,FALSE,1,Tutor,1
+The Artificers,Rusted Relic,,,,,Artifact,,,4,FALSE,4,Metalcraft,1
+The Artificers,Sandstone Oracle,4,4,,,"Artifact, Creature",Sphinx,,7,FALSE,7,Draw,1
+The Artificers,Sawtooth Thresher,1,1,,,"Artifact, Creature",Construct,,6,FALSE,6,Proliforate,1
+The Artificers,Scrapdiver Serpent,5,5,,,Creature,Serpent,2,5,FALSE,7,Offense,1
+The Artificers,Screeching Silcaw,1,2,,,Creature,Bird,1,1,FALSE,2,Metalcraft,1
+The Artificers,Sculpting Steel,,,,,Artifact,,,3,FALSE,3,Metalcraft,1
+The Artificers,Silver Myr,1,1,,,"Artifact, Creature",Myr,,2,FALSE,2,Mana,1
+The Artificers,Skitterbeam Battalion,4,4,"[""Grey"",3];[""Red"",2]",,"Artifact, Creature",Construct,,9,FALSE,9,Token,1
+The Artificers,Skyclave Sentinel,2,3,,,"Artifact, Creature",Gargoyle,,3,FALSE,3,Offense,1
+The Artificers,Skystrike Officer,2,3,,,Creature,"Human, Soldier",1,2,FALSE,3,Metalcraft,1
+The Artificers,Slagstone Refinery,,,,,Artifact,,,4,FALSE,4,Mana,1
+The Artificers,Soaring Seacliff,,,,,Land,,,,FALSE,0,Blue,1
+The Artificers,Spire Serpent,3,5,,,Creature,Serpent,1,4,FALSE,5,Metalcraft,1
+The Artificers,Spotter Thopter,4,5,"[""Grey"",3];[""Blue"",1]",,"Artifact, Creature",Thopter,,8,FALSE,8,Offense,1
+The Artificers,Staunch Throneguard,2,5,,,"Artifact, Creature",Construct,,5,FALSE,5,Defense,1
+The Artificers,Steal Artifact,,,,,Enchantment,Aura,2,2,FALSE,4,Control,1
+The Artificers,Tamiyo's Immobilizer,,,,,Artifact,,1,3,FALSE,4,Metalcraft,1
+The Artificers,Tamiyo's Logbook,,,,,Artifact,,1,2,FALSE,3,Defense,1
+The Artificers,"Tawnos, Solemn Survivor",1,3,,,"Legendary, Creature","Human, Artificer",1,1,FALSE,2,Token,1
+The Artificers,Temple of the False God,,,,,Land,,,,FALSE,0,Null,1
+The Artificers,Thopter Assembly,5,5,,,"Artifact, Creature",Thopter,,6,FALSE,6,Token,1
+The Artificers,Thopter Mechanic,2,1,,,Creature,"Human, Artificer",1,1,FALSE,2,Metalcraft,1
+The Artificers,Thoughtcast,,,,,Sorcery,,1,4,FALSE,5,Metalcraft,1
+The Artificers,Throne of Geth,,,,,Artifact,,,2,FALSE,2,Proliforate,1
+The Artificers,Tooth of Chiss-Goria,,,,,Artifact,,,3,FALSE,3,Metalcraft,1
+The Artificers,Transmogrifying Licid,2,2,,,"Artifact, Creature",Licid,,3,FALSE,3,Enhance,1
+The Artificers,Trinket Mage,2,2,,,Creature,"Human, Wizard",1,2,FALSE,3,Tutor,1
+The Artificers,Unknown Shores,,,,,Land,,,,FALSE,0,Null,1
+The Artificers,Vedalken Engineer,1,1,,,Creature,"Vedalken, Artificer",1,1,FALSE,2,Mana,1
+The Artificers,Witch's Oven,,,,,Artifact,,,1,FALSE,1,Life,1
+The Artificers,Wooden Sphere,,,,,Artifact,,,1,FALSE,1,Life,1
+The Artificers,Workshop Elders,4,4,,,Creature,"Human, Artificer",1,6,FALSE,7,Metalcraft,1
