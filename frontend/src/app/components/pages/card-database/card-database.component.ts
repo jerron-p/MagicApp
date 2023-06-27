@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Observable } from 'rxjs';
 import { CardService } from 'src/app/services/card.service';
 import { Card } from 'src/app/shared/models/Card';
 
@@ -13,7 +14,11 @@ export class CardDatabaseComponent {
   constructor(
     private cardService:CardService
   ){
-    this.cards = cardService.getAll();
-    
+    let cardsObservable:Observable<Card[]>;
+    cardsObservable = cardService.getAll();
+
+    cardsObservable.subscribe((serverCards) => {
+      this.cards = serverCards;
+    })
   }
 }
